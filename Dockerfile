@@ -1,4 +1,4 @@
-FROM: atlassian/default-image:latest
+FROM atlassian/default-image:latest
 MAINTAINER Dave Clark "dave.clark@clarkyoungman.com"
 
 # building on top of the default image from Atlassian
